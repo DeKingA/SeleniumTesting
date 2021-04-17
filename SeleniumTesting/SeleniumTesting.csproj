@@ -103,6 +103,7 @@
   <ItemGroup>
     <Compile Include="CraigslistSearch.cs" />
     <Compile Include="Data\Props.cs" />
+    <Compile Include="Data\ReadData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Steps\CraigslistDemoSteps.cs" />
   </ItemGroup>
